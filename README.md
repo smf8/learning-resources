@@ -8,6 +8,7 @@ Personal random learning materials :D
 * [Zero to production Rust](https://www.zero2prod.com)
 * [Rust Learning Resources](https://github.com/ctjhoa/rust-learning)
 * [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
+* [Jon Gjengset Youtube](https://www.youtube.com/@jonhoo) His Crust of Rust and Decrusting videos are awesome for getting deep in rust :D (**must watch**)
 
 ## Computer Networks
 * [How NAT traversal works](https://tailscale.com/blog/how-nat-traversal-works/)
